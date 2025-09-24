@@ -13,6 +13,7 @@ namespace ConsoleApp2
             Console.WriteLine("Hello world");
             Console.WriteLine("New changes");
             char[] chars = { 'a', 'b', 'c' };
+            string s = "jayasree";
         }
     }
 }
